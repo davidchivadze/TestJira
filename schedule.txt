@@ -1,0 +1,4 @@
+D:\test1\01-01.test.sql|DML
+D:\test1\01-02.test1.sql|DML
+D:\test1\01.test.sql|DML
+D:\test1\02.test1.sql|DML
